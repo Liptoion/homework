@@ -14,10 +14,6 @@ int main(void)
 	{
 		printf("negative ");
 	}
-	else
-	{
-		printf("zero ");
-	}
 
 	if (a % 2 == 0)
 	{
